@@ -1,3 +1,13 @@
-/*/.ipynb_checkpoints
-/*/.mypy_cache
+# macOS
 .DS_Store
+
+# Jupyter / tooling caches (any depth)
+.ipynb_checkpoints/
+.virtual_documents/
+.mypy_cache/
+__pycache__/
+.venv/
+venv/
+
+# Large downloaded datasets (see README)
+sparc_cache/

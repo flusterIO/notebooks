@@ -1,0 +1,6 @@
+# Python 3.10+ recommended
+alpha-omega-gravity   # imported as `physics`
+jupyterlab
+numpy
+sympy
+matplotlib
